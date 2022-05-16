@@ -1,6 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 160px;
+    font-size: 20px;
 }
 
 body{
@@ -9,8 +9,8 @@ body{
 
 main{
     background-color: white;
-    width: 500px;
+    width: 800px;
     margin: auto;
-    padding: 10px;
+    padding: 60px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0,473);
 }
